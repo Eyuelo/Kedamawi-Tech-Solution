@@ -19,3 +19,19 @@ nav{
     padding-left: 8%;
     padding-right: 8%;
 }
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 25px;
+}
+nav ul a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform:capitalize;
+    
+}
+nav ul a:hover{
+    color: rgba(212, 254, 255, 0.877);
+    transition: .2s;
+}
