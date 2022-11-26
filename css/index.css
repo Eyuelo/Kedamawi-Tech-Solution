@@ -31,7 +31,7 @@ nav ul a{
     text-transform:capitalize;
     
 }
-nav ul a:hover{
+.nav ul a:hover{
     color: rgba(212, 254, 255, 0.877);
     transition: .2s;
 }
