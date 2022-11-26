@@ -10,6 +10,7 @@ section{
     width: 100%;
     background-size: cover;
     background-position: center;
+    background-color: aqua;
 }
 nav{
     position: relative;
