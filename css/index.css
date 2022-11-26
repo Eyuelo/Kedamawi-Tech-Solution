@@ -17,9 +17,9 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding-top: 50px;
-    padding-left: 8%;
-    padding-right: 8%;
-    padding: 0%;
+    padding-left: 50%;
+   
+    
 }
 nav ul li{
     list-style-type: none;
